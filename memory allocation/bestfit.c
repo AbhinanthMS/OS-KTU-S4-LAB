@@ -8,9 +8,9 @@ int main() {
     printf("Enter block sizes:\n");
     for (int i = 0; i < m; i++) scanf("%d", &b[i]);
 
-    printf("Enter number of processes: ");
+    printf("Enter number of pages: ");
     scanf("%d", &n);
-    printf("Enter process sizes:\n");
+    printf("Enter process pages:\n");
     for (int i = 0; i < n; i++) scanf("%d", &p[i]);
 
     for (int i = 0; i < n; i++) {
