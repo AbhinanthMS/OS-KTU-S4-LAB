@@ -3,19 +3,39 @@
 Welcome to the KTU S4 OS Lab Code Repository! 🚀 This repository contains well-documented and tested Operating Systems lab programs for APJ Abdul Kalam Technological University (KTU) - Semester 4 students.
 
 # 📌 What's Inside?
-✅ Process Management - fork(), exec(), wait(), 
+✅ Process Management - fork(), exec(), wait()
+
+
 ✅ Memory Management - Paging, segmentation, allocation
+
+
 ✅ File Handling - File operations, permissions, and access control
+
+
 ✅ Scheduling Algorithms - FCFS, SJF, Round Robin, Priority Scheduling
+
+
 ✅ Synchronization - Semaphore, Producer-Consumer
+
+
 ✅ Deadlock Avoidance - Banker's Algorithm
 
 
 # 🎯 Why Use This Repo?
+
+
 🔹 KTU Syllabus-Oriented - Covers all major OS lab topics
+
+
 🔹 Well-Commented Code - Easy to understand and modify
+
+
 🔹 Tested Programs - Run & verified for accuracy
+
+
 🔹 Regular Updates - Stay up-to-date with improvements
+
+
 
 # 🚀 How to Use?
 1️⃣ Clone the repo:
