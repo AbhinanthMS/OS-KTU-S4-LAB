@@ -33,11 +33,13 @@ Edit
 gcc filename.c 
   
 ./a.out in ubuntu
+
 ./a.exe in vs code
 
 Let me know if you want any modifications! 🚀
 
 
 #  CONTACT ME - ABHINAND A S
-              - 8590710816
+        whatsapp - 8590710816
         INSTA -  abhiiii_369
+        College of Engineering Attingal
