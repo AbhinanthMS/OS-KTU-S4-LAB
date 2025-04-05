@@ -23,7 +23,7 @@ Welcome to the KTU S4 OS Lab Code Repository! 🚀 This repository contains well
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/OS-KTU-S4-LAB.git
+git clone https://github.com/abhiiii-369/OS-KTU-S4-LAB.git
 2️⃣ Navigate to the required program folder
 3️⃣ Compile & run:
 
