@@ -24,7 +24,11 @@ bash
 Copy
 Edit
 git clone https://github.com/abhiiii-369/OS-KTU-S4-LAB.git
+
+
 2️⃣ Navigate to the required program folder
+
+
 3️⃣ Compile & run:
 
 bash
