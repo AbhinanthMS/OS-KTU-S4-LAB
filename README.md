@@ -64,6 +64,6 @@ Let me know if you want any modifications! 🚀
 
 
 #  CONTACT ME - ABHINAND A S
-        whatsapp - 8590710816
+        WhatsApp - 8590710816
         INSTA -  abhiiii_369
         College of Engineering Attingal
