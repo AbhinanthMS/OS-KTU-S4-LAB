@@ -32,8 +32,10 @@ int main() {
     }
 
     int changed;
+    printf("After executing  Available Resources:\n ");
     do {
         changed = 0;
+       
         for (i = 0; i < n; i++) {
             if (!f[i]) {
                 for (j = 0; j < m && need[i][j] <= avail[j]; j++);
@@ -43,6 +45,12 @@ int main() {
                     f[i] = 1;
                     done++;
                     changed = 1;
+                    
+                   
+                    for (j = 0; j < m; j++) {
+                        printf("%d ", avail[j]);
+                    }
+                    printf("\n");
                 }
             }
         }
