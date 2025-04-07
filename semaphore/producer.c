@@ -4,7 +4,7 @@
 // Initializing shared resources
 int mutex = 1; // Mutex for mutual exclusion
 int full = 0;  // Count of filled buffer slots
-int empty = 3; // Count of empty buffer slots
+int empty; // Count of empty buffer slots
 int x = 0;  
 int n;   // Counter for produced items
 
@@ -32,9 +32,11 @@ void consumer() {
 // Main function to drive the producer-consumer process
 int main() {
     int choice;
-    while (1) {
+    
         // Display menu options
-        
+        printf("Enter the size of the buffer:");
+        scanf("%d", &empty);
+        while (1) {
         printf("\nChoose an operation:\n");
         printf("1) Producer\n");
         printf("2) Consumer\n");
